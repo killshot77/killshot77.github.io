@@ -1,0 +1,36 @@
+.container{
+	text-align:center;
+}
+body{
+	background:url("img/cristina-gottardi-209440.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+html {
+	height: 100%;
+}
+h1, h3{
+	color:white;
+	font-family:'Lobster';
+}
+p{
+	font-size: 20px;
+	color:gold;
+	font-family:'Shadows Into Light';
+}
+h2{
+	font-family:'Pacifico';
+}
+hr{
+	width:30%;
+}
+input{
+	width:200px;
+	height:200px;
+	border:50px dashed solid silver;
+}
+footer{
+	border:5px solid silver;
+	text-align:center;
+}
